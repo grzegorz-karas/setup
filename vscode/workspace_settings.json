@@ -1,0 +1,10 @@
+{
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "`which python3`",
+    "python.testing.pytestArgs": [
+        "--ignore=<folder to ignore folder1/folder1.1/folder1.1.1>",
+        "--ignore=<folder to ignore folder2/folder2.2/folder2.2.2>"
+    ]
+}

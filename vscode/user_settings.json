@@ -1,0 +1,33 @@
+{
+    "editor.rulers": [
+        80
+    ],
+    "editor.bracketPairColorization.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "explorer.confirmDelete": false,
+    "files.associations": {
+        "*.txt": "python"
+    },
+    "jupyter.sendSelectionToInteractiveWindow": false,
+    "jupyter.askForKernelRestart": false,
+    "json.maxItemsComputed": 20000,
+    "jupyter.alwaysTrustNotebooks": true,
+    "git.confirmSync": false,
+    "git.ignoreLimitWarning": true,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.defaultInterpreterPath": "`which python`",
+    "python.formatting.provider": "autopep8",
+    "python.pythonPath": "`which python`",
+    "python.terminal.activateEnvironment": false,
+    "python.testing.pytestEnabled": true,
+    "terminal.integrated.inheritEnv": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    }
+}
